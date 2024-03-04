@@ -1,0 +1,8 @@
+com\salihcanhiz\cohortshomework1\entity\House.class
+com\salihcanhiz\cohortshomework1\entity\SummerHouse.class
+com\salihcanhiz\cohortshomework1\CohortsHomework1Application.class
+com\salihcanhiz\cohortshomework1\entity\Property.class
+com\salihcanhiz\cohortshomework1\util\DummyData.class
+com\salihcanhiz\cohortshomework1\enums\EstateType.class
+com\salihcanhiz\cohortshomework1\service\PropertyService.class
+com\salihcanhiz\cohortshomework1\entity\Villa.class
